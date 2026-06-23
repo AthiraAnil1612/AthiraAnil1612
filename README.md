@@ -1,7 +1,6 @@
 # Hi, I'm Athira Anil 👋
 
 🎓 MCA Graduate
-
 💻 Full Stack Developer | Django | Python | AI/ML  
 📍 Kerala, India  
 🔍 Open to internships & entry-level opportunities
