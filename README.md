@@ -1,6 +1,6 @@
 # Hi, I'm Athira Anil 👋
 
-🎓 MCA Student @ Mangalam College of Engineering  
+🎓 MCA Graduate
 💻 Full Stack Developer | Django | Python | AI/ML  
 📍 Kerala, India  
 🔍 Open to internships & entry-level opportunities
